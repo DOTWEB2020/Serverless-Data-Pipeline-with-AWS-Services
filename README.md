@@ -19,9 +19,14 @@ Designed a cloud-native, event-driven pipeline that automatically processes file
 - **Cost-Optimized**: Pay-per-use pricing
 
 
-### 🔗 Full Documentation & Demo
+## 🔗 Full Documentation & Demo
 📚 Complete Project Documentation:[[Notion Page Link]](https://www.notion.so/Serverless-Data-Processing-Pipeline-2aeafa903f8a80cbbc7dc601c372eca9?source=copy_link)
 
 🎥 Video Demonstration: [[Video Demo Link]](https://youtu.be/e5USaMiPLaQ)
 
 💻 Source Code: [[GitHub Repository Link]](https://github.com/DOTWEB2020/Serverless-Data-Pipeline-with-AWS-Services)
+
+## Contact
+-Name : Adeoye Emmanuel
+-Email: Emmanuelofgrace@gmail.com
+-GitHub: DOTWEB2020
