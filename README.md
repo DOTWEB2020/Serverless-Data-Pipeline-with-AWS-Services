@@ -32,4 +32,4 @@ Designed a cloud-native, event-driven pipeline that automatically processes file
 
 **Email:** Emmanuelofgrace@gmail.com
 
-💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/emmanuel-adeoye-29187bb7)
+💼 LinkedIn: [[LinkedIn Profile]](www.linkedin.com/in/emmanuel-adeoye-29187bb7)
