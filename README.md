@@ -22,3 +22,10 @@ Designed a cloud-native, event-driven pipeline that automatically processes file
 ```bash
 ./deploy.sh
 aws s3 cp test.txt s3://$(terraform output -raw bucket_name)/
+
+🔗 Full Documentation & Demo
+📚 Complete Project Documentation:[[Notion Page Link]](https://www.notion.so/Serverless-Data-Processing-Pipeline-2aeafa903f8a80cbbc7dc601c372eca9?source=copy_link)
+
+🎥 Video Demonstration: [[Video Demo Link]](https://youtu.be/e5USaMiPLaQ)
+
+💻 Source Code: [[GitHub Repository Link]](https://github.com/DOTWEB2020/Serverless-Data-Pipeline-with-AWS-Services)
