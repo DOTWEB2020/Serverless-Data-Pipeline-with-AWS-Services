@@ -18,10 +18,6 @@ Designed a cloud-native, event-driven pipeline that automatically processes file
 - **Auto-Scaling**: Handles 1 to 10,000+ files
 - **Cost-Optimized**: Pay-per-use pricing
 
-## Quick Deployment
-```bash
-./deploy.sh
-aws s3 cp test.txt s3://$(terraform output -raw bucket_name)/
 
 🔗 Full Documentation & Demo
 📚 Complete Project Documentation:[[Notion Page Link]](https://www.notion.so/Serverless-Data-Processing-Pipeline-2aeafa903f8a80cbbc7dc601c372eca9?source=copy_link)
